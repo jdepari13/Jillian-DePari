@@ -9,7 +9,7 @@ body{
     /* what centers the card */
     margin: 0 auto;
     background-color:rgba(243, 243, 243, 0.904);
-    background-image: url("assets/Back_ImageFront_Card.svg") ;
+    background-image: url("Back_ImageFront_Card.svg") ;
     /* how far apart the cards are */
     margin-bottom: 70px;
     box-shadow: 2px 5px 15px 0px #17161694;
@@ -20,7 +20,7 @@ body{
     height: 612px;
     margin: 0 auto;
     background-color:rgb(224, 201, 169);
-    background-image: url("assets/Back_ImageBack-2.svg");
+    background-image: url("Back_ImageBack-2.svg");
     box-shadow: 2px 5px 15px 0px #17161694;
     
 }

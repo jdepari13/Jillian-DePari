@@ -1,0 +1,78 @@
+body{
+    background-color: bisque;
+}
+
+
+.front-card{
+    width:350px;
+    height: 612px;
+    /* what centers the card */
+    margin: 0 auto;
+    background-color:rgba(243, 243, 243, 0.904);
+    background-image: url("assets/Back_ImageFront_Card.svg") ;
+    /* how far apart the cards are */
+    margin-bottom: 70px;
+    box-shadow: 2px 5px 15px 0px #17161694;
+
+}
+.back-card{
+    width:350px;
+    height: 612px;
+    margin: 0 auto;
+    background-color:rgb(224, 201, 169);
+    background-image: url("assets/Back_ImageBack-2.svg");
+    box-shadow: 2px 5px 15px 0px #17161694;
+    
+}
+
+.icon-container{
+    position: relative;
+    bottom: 320px;
+    right: 50px;
+  }
+
+  .instagram-icon {
+    position: relative;
+    left: 115px;
+    top: 198px;
+    width: 100px;
+
+  }
+
+  .info {
+      position: relative;
+      top:75px;
+      /* bottom: 550px; */
+      left: 60px;
+  }
+
+  h1{
+      padding-top: 300px;
+      padding-left: 100px;
+      font-family: 'EB Garamond', serif;
+      color:rgb(87, 115, 167);
+      font-size: xx-large;
+      position: relative;
+      top: 10px;
+      bottom: 3px;
+      left: 30px;
+
+  }
+
+  h2{
+      padding-left: 90px;
+      font-family: 'EB Garamond', serif;  
+      font-size: large; 
+      position: relative;
+      bottom: 10px;
+      left: 50px;
+      color:rgb(87, 115, 167);
+  }
+
+  h3{
+      left: 3px;
+      padding-top: .1px;
+      font-family: 'EB Garamond', serif;
+      color:rgb(87, 115, 167);
+    
+  }
